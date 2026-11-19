@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "Lab7/1.0.0": {
+        "dependencies": {
+          "FSharp.Core": "11.0.101"
+        },
+        "runtime": {
+          "Lab7.dll": {}
+        }
+      },
+      "FSharp.Core/11.0.101": {
+        "runtime": {
+          "lib/net10.0/FSharp.Core.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.126.53018",
+            "localPath": "FSharp.Core.dll"
+          }
+        },
+        "resources": {
+          "lib/net10.0/cs/FSharp.Core.resources.dll": {
+            "locale": "cs",
+            "localPath": "cs/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/de/FSharp.Core.resources.dll": {
+            "locale": "de",
+            "localPath": "de/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/es/FSharp.Core.resources.dll": {
+            "locale": "es",
+            "localPath": "es/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/fr/FSharp.Core.resources.dll": {
+            "locale": "fr",
+            "localPath": "fr/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/it/FSharp.Core.resources.dll": {
+            "locale": "it",
+            "localPath": "it/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/ja/FSharp.Core.resources.dll": {
+            "locale": "ja",
+            "localPath": "ja/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/ko/FSharp.Core.resources.dll": {
+            "locale": "ko",
+            "localPath": "ko/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/pl/FSharp.Core.resources.dll": {
+            "locale": "pl",
+            "localPath": "pl/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR",
+            "localPath": "pt-BR/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/ru/FSharp.Core.resources.dll": {
+            "locale": "ru",
+            "localPath": "ru/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/tr/FSharp.Core.resources.dll": {
+            "locale": "tr",
+            "localPath": "tr/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans",
+            "localPath": "zh-Hans/FSharp.Core.resources.dll"
+          },
+          "lib/net10.0/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant",
+            "localPath": "zh-Hant/FSharp.Core.resources.dll"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FSharp.Core/11.0.101": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XL1wfb0gujXAtnJfO7rYfxKgwufCiT8aOKqGoqKB83oxRAZ9+yiNWXinHO4x9StYuunTl/AH8eERc0hv7UXJVQ==",
+      "path": "fsharp.core/11.0.101",
+      "hashPath": "fsharp.core.11.0.101.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<linker>
+  <assembly fullname="Lab7">
+    <resource name="FSharpSignatureData.Lab7" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Lab7" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Lab7" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Lab7" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Lab7" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Lab7" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Lab7" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Lab7" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Lab7" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Lab7" action="remove"></resource>
+  </assembly>
+</linker>

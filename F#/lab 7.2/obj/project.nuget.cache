@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5eMhCcGUYM=",
+  "success": true,
+  "projectFilePath": "d:\\Github\\napl\\F#\\lab 7.2\\Lab7_2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tida\\.nuget\\packages\\fsharp.core\\11.0.101\\fsharp.core.11.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
