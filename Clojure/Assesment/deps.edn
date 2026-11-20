@@ -1,0 +1,4 @@
+{:paths ["."]
+ :deps {ring/ring-core {:mvn/version "1.12.2"}
+        ring/ring-jetty-adapter {:mvn/version "1.12.2"}
+        org.xerial/sqlite-jdbc {:mvn/version "3.46.1.0"}}}
