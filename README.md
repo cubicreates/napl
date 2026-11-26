@@ -1,6 +1,6 @@
 # New Age Programming Language
 
-| Details |
+| Field | Details |
 | :--- | :--- |
 | **Name** | Adit Ghosh |
 | **Roll Number** | 2401350016 |
